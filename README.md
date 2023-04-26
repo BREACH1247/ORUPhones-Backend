@@ -53,3 +53,9 @@ Returns the data of top 10 cities which have the highest number of users and the
 ## Note
 
 The API response may be slow due to the use of a free tier web service which limits the speed.
+## Installation
+To install the ORUPhones Backend on your local machine, run the following commands:
+```
+npm install
+nodemon server.js
+```
